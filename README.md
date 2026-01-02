@@ -1,6 +1,6 @@
 # Sales & Customer Analytics Dashboard
 
-Interactive Tableau dashboards for analyzing sales performance and customer behavior to support data-driven business decisions.
+Interactive Tableau dashboards for analyzing sales performance and customer behavior to support data-driven business decisions. 
 
 
 ## Overview
