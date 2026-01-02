@@ -20,7 +20,7 @@ Two comprehensive dashboards providing insights into sales metrics, customer tre
 - Weekly sales and profit trends with average benchmarks
 
 ### Customer Dashboard
-![Customer Dashboard](images/Customer Dashboard.png)
+![Customer Dashboard](https://github.com/YashTakte/Sales-Customer-Analytics-Dashboard/blob/main/images/Customer%20Dashboard.png)
 
 **Key Features:**
 - Customer KPIs (Total Customers, Sales per Customer, Orders)
