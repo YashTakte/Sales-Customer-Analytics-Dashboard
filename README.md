@@ -11,7 +11,7 @@ Two comprehensive dashboards providing insights into sales metrics, customer tre
 ## Dashboards
 
 ### Sales Dashboard
-![Sales Dashboard](images/Sales Dashboard.png)
+![Sales Dashboard](https://github.com/YashTakte/Sales-Customer-Analytics-Dashboard/blob/main/images/Sales%20Dashboard.png)
 
 **Key Features:**
 - KPI overview (Total Sales, Profit, Quantity)
